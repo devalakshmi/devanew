@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'dir1';
+  title = 'My New Project';
   display = true;
   username ="raja";
   users = [
