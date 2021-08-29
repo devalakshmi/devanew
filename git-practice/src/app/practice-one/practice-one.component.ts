@@ -18,6 +18,7 @@ ngfordirectives = [
   {name:"preetha",id:"05",age:"24"}
 ];
 ngswitchusername="raja";
+attributearr=[{value:9},{value:10},{value:11},{value:12},{value:13}]
 
 
 demo(){
