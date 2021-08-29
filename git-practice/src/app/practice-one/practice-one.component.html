@@ -19,3 +19,9 @@
 <hr>
 <h1>Build-in Directives</h1>
 <h1>Structural Directives-ngIf :</h1>
+<div *ngIf="ngifdisplay;if thenblock;else elseblock">
+    <h2>i am if</h2>
+  </div>
+  <ng-template #elseblock>
+    <h2>i am else</h2>
+  </ng-template>
