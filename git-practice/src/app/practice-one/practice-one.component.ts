@@ -17,6 +17,7 @@ ngfordirectives = [
   {name:"rohith",id:"04",age:"23"},
   {name:"preetha",id:"05",age:"24"}
 ];
+ngswitchusername="raja";
 
 
 demo(){

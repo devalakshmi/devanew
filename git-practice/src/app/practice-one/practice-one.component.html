@@ -36,3 +36,8 @@
 <br>
 <hr> 
 <h1>Structural Directives-ngSwitch :</h1>
+<div [ngSwitch]="ngswitchusername">
+    <h1 *ngSwitchCase="'raja'">i am raja</h1>
+    <h1 *ngSwitchCase="'vijai'">i am vijay</h1>
+    <h1 *ngSwitchDefault>username doesn't match</h1>
+</div>
