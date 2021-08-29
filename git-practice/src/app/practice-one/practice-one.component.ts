@@ -7,6 +7,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PracticeOneComponent implements OnInit {
 title='Interpolation';
+propertybtn:boolean=true;
+
+
+
+demo(){
+  this.propertybtn=false;
+}
   constructor() { }
 
   ngOnInit(): void {
