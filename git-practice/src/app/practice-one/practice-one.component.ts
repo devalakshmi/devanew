@@ -19,6 +19,7 @@ ngfordirectives = [
 ];
 ngswitchusername="raja";
 attributearr=[{value:9},{value:10},{value:11},{value:12},{value:13}]
+pipebirthday = new Date(1997, 10, 25);
 
 
 demo(){
