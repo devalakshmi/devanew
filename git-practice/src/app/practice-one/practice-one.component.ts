@@ -14,6 +14,9 @@ propertybtn:boolean=true;
 demo(){
   this.propertybtn=false;
 }
+test(){
+  this.propertybtn=true;
+}
   constructor() { }
 
   ngOnInit(): void {
